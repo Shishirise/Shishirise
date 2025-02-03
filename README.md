@@ -4,4 +4,4 @@
 
 |  #  | Folder Link                            | Project Description                               |
 | :-: | -------------------------------------- | ---------------------------------------------------- |
-|  1  | Lottery                | [Overview of Lottery ]()
+|  1  | Lottery                | [Overview of Lottery ](./Lottery.cpp)
